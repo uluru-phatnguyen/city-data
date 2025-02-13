@@ -1,0 +1,5 @@
+﻿provider,consumption,outages,renewablePercentage,dateRecorded,source
+ABC,1,1002,10,1,2025-02-13T03:39:43.509Z,manual
+XYZ,1,2000.3,20,2,2025-02-13T03:39:43.509Z,manual
+LOL,1,2000.3,30,3,2025-02-13T03:39:43.509Z,manual
+CCC,1,1002,40,4,2025-02-13T03:39:43.509Z,manual
